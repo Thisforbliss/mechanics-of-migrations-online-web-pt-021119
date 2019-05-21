@@ -1,4 +1,4 @@
-
+  require 'sinatra/activerecord/rake'
 class CreateArtists < ActiveRecord::Migration
   def up 
   end
