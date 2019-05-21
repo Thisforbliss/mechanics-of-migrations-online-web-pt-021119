@@ -19,4 +19,4 @@ class CreateArtists < ActiveRecord::Migration
     
   end
 end
-  require 'sinatra/activerecord/rake'
+  
